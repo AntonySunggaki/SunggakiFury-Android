@@ -18,9 +18,9 @@ package com.antonysunggaki.sunggakifury;
 
 import android.util.Log;
 
-public class SunggakiDebugzer {
+public class SunggakiDebugter {
 
-    private static final String TAG = "XAntonySunggaki:0.1.4X";
+    private static final String TAG = "XAntonySunggaki:0.1.5X";
 
     public static void v(String message){
         Log.v(TAG, message);
