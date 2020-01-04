@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 ZXing authors
+ * Copyright 2019 AntonySunggaki authors
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@ import android.util.Log;
 
 public class SunggakiDebugger {
 
-    private static final String TAG = "XSunggakiFuryX";
+    private static final String TAG = "XAntonySunggakiX";
 
     public static void d(String message){
         Log.d(TAG, message);
