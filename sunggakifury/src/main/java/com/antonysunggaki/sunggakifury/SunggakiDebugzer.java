@@ -18,11 +18,11 @@ package com.antonysunggaki.sunggakifury;
 
 import android.util.Log;
 
-public class SunggakiDebugger {
+public class SunggakiDebugzer {
 
-    private static final String TAG = "XAntonySunggakiX";
+    private static final String TAG = "XAntonySunggaki:0.1.4X";
 
-    public static void d(String message){
-        Log.d(TAG, message);
+    public static void v(String message){
+        Log.v(TAG, message);
     }
 }
