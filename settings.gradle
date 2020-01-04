@@ -1,0 +1,2 @@
+include ':app', ':sunggakifury'
+rootProject.name='SunggakiFuryExample'
